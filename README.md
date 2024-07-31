@@ -1,2 +1,36 @@
-# ITI_Python_and_PHP_Shadow_Interviews
-This repository contains a collection of essential code snippets that were provided by interviewers for both the "Python" and "PHP" tracks
+# ITI Python and PHP Shadow Interviews
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=ahmedabougabal&repo=ITI_Python_and_PHP_Shadow_Interviews&color=blueviolet)](https://github.com/ahmedabougabal/ITI_Python_and_PHP_Shadow_Interviews)
+[![GitHub Stars](https://img.shields.io/github/stars/ahmedabougabal/ITI_Python_and_PHP_Shadow_Interviews?style=social)](https://github.com/ahmedabougabal/ITI_Python_and_PHP_Shadow_Interviews/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/ahmedabougabal/ITI_Python_and_PHP_Shadow_Interviews?style=social)](https://github.com/ahmedabougabal/ITI_Python_and_PHP_Shadow_Interviews/network/members)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ahmedabougabal/ITI_Python_and_PHP_Shadow_Interviews)](https://github.com/ahmedabougabal/ITI_Python_and_PHP_Shadow_Interviews/pulls)
+
+Welcome to the **ITI Python and PHP Shadow Interviews** repository! This collection features essential code snippets frequently asked by interviewers for both "Python" and "PHP" ITI Students.
+
+## 📂 Contents
+
+- **JavaScript Code Snippets:** Various JavaScript examples used in mock interviews.
+- **Interview Questions:** Common interview questions and solutions.
+
+## 📁 Folders
+
+- **Event queue**
+- **Scope chaining**
+- **closures**
+- **function statement and f...ssion**
+- **misc**
+- **problem solving**
+
+## 📄 Files
+
+- `codingChallenge2.js`
+- `interviewQuestions.txt`
+- `test.js`
+- `testThis.js`
+
+## 🚀 How to Use
+
+1. **Clone this repository** to your local machine using:
+
+```bash
+git clone https://github.com/ahmedabougabal/ITI_Python_and_PHP_Shadow_Interviews.git
