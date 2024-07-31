@@ -7,12 +7,8 @@
 
 Welcome to the **ITI Python and PHP Shadow Interviews** repository! This collection features essential code snippets frequently asked by interviewers for both "Python" and "PHP" ITI Students.
 
-## 📂 Contents
 
-- **JavaScript Code Snippets:** Various JavaScript examples used in mock interviews.
-- **Interview Questions:** Common interview questions and solutions.
-
-## 📁 Folders
+## 📁 What's Inside ? 👀
 
 - **Event queue**
 - **Scope chaining**
@@ -30,7 +26,7 @@ Welcome to the **ITI Python and PHP Shadow Interviews** repository! This collect
 
 ## 🚀 How to Use
 
-1. **Clone this repository** to your local machine using:
+1. **Clone/Fork this repository** to your local machine using:
 
 ```bash
 git clone https://github.com/ahmedabougabal/ITI_Python_and_PHP_Shadow_Interviews.git
