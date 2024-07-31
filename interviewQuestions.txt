@@ -1,0 +1,27 @@
+What is the meaning of hoisting?
+What is the difference between let and var? Is hoisting is being applied on let and var or not?
+What is the difference between == and ===?
+How to check if a variable is an array of not?
+Waht do you know about closure? Suggest a usecase of it.
+Do you know what is callback hell? Suggest a solution.
+what is the difference between pass by value and pass by reference?
+What is meant by 'index' in database? What type of data structres is it implemented on? What is the advantages and dis-advantagess of this data structres? and how to overcome its disadvantage?
+
+Write a mongodb qurey to push a string 'IoT' to an array called 'tracks'.
+The unique property identifying the needed document is 'ID' and its value is 'intake43'
+the document is: 
+  
+  
+  {
+    ID: 'intake43',
+    startDate: 'ay kalam',
+    endDate: 'ay kalam',
+    tracks: [
+      'Java',
+      'OS'
+    ]
+  }
+
+
+
+
